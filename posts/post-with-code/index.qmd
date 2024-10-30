@@ -1,0 +1,14 @@
+---
+title: "Second Blog"
+author: "Rimuksh Kansal"
+date: "2024-10-30"
+date-modified: "2024-10-30"
+categories: [news, code, analysis]
+image: "image.jpg"
+draft: true
+---
+
+This is a post with executable code.
+```python
+
+```

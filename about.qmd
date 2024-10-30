@@ -1,0 +1,40 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rimuksh-kansal/
+    - icon: github
+      text: Github
+      href: https://github.com/slbotbm
+
+---
+
+Rimuksh currently studies at Kyushu University's EECS Department as an undergraduate. He is passionate about learning new technologies and working on interesting problems.
+
+## Education
+
+<b>Kyushu University</b> | Fukuoka, Japan <br>
+B.S. Engineering in Electrical Engineering <br>
+<small>April 2023 - March 2027</small> <br>
+
+<b>Osaka University</b> | Osaka, Japan <br>
+Intensive program in Japanese language and culture training <br>
+<small> April 2022 - March 2023 </small> <br>
+
+## Experience
+
+<b>Figurout Co. Ltd. </b> | Data Engineer (Part time)<br>
+[Write Experience here] <br>
+<small>July 2024 - Present</small> <br>
+
+<b>Aakel Technologies Co. Ltd. </b> | Software Engineer (Intern)<br>
+[Write Experience here] <br>
+<small>May 2024 - Present</small> <br>
+
+<b>Nagasaki Lab, Kyushu University Hospital </b> | Research Assistant <br>
+[Write experience here] <br>
+<small>September 2023 - May 2024</small><br>

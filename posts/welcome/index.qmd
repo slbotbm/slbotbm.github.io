@@ -1,0 +1,12 @@
+---
+title: "Welcome To My Blog"
+author: "Rimuksh Kansal"
+date: "2024-10-30"
+date-modified: "2024-10-30"
+categories: [news]
+---
+
+This is the first post in a Quarto blog. Welcome!
+
+![](thumbnail.jpg)
+
